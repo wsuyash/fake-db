@@ -1,9 +1,11 @@
 {
     "products": [
-        "id": 1,
-        "name": "Product 1",
-        "description": "This is product 1",
-        "price": 999,
-        "rating": 3
+        {
+            "id": 1,
+            "name": "Product 1",
+            "description": "This is product 1",
+            "price": 999,
+            "rating": 3
+        }
     ]
 }
