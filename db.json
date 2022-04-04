@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Product 1",
-    "description": "This is product 1.",
+    "description": "This",
     "price": 999,
     "rating": 3
 }
